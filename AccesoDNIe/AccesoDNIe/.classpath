@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="bcprov-jdk16-144.jar"/>
+	<classpathentry kind="lib" path="jasn1-1.7.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="core-1.56.0.0.jar"/>
+	<classpathentry kind="lib" path="jmulticard-1.5.jar"/>
+	<classpathentry kind="lib" path="jmulticard-jse-1.5.jar"/>
+	<classpathentry kind="lib" path="jmulticard-jsr268-1.5.jar"/>
+	<classpathentry kind="lib" path="prov-1.56.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5"/>
+	<classpathentry kind="lib" path="C:/Users/miguel/Downloads/httpcomponents-client-4.5.8-bin/httpcomponents-client-4.5.8/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/miguel/Downloads/httpcomponents-client-4.5.8-bin/httpcomponents-client-4.5.8/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/miguel/Downloads/httpcomponents-client-4.5.8-bin/httpcomponents-client-4.5.8/lib/fluent-hc-4.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/miguel/Downloads/httpcomponents-client-4.5.8-bin/httpcomponents-client-4.5.8/lib/httpclient-4.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/miguel/Downloads/httpcomponents-client-4.5.8-bin/httpcomponents-client-4.5.8/lib/httpclient-cache-4.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/miguel/Downloads/httpcomponents-client-4.5.8-bin/httpcomponents-client-4.5.8/lib/httpclient-osgi-4.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/miguel/Downloads/httpcomponents-client-4.5.8-bin/httpcomponents-client-4.5.8/lib/httpclient-win-4.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/miguel/Downloads/httpcomponents-client-4.5.8-bin/httpcomponents-client-4.5.8/lib/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/miguel/Downloads/httpcomponents-client-4.5.8-bin/httpcomponents-client-4.5.8/lib/httpmime-4.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/miguel/Downloads/httpcomponents-client-4.5.8-bin/httpcomponents-client-4.5.8/lib/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/miguel/Downloads/httpcomponents-client-4.5.8-bin/httpcomponents-client-4.5.8/lib/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
